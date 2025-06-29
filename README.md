@@ -1,4 +1,3 @@
-# cleantech-master
 ﻿# CleanTech: Transforming Waste Management with Transfer Learning
 
 An AI-powered waste classifier that uses transfer learning (VGG-16) to categorize images into:
@@ -23,3 +22,6 @@ An AI-powered waste classifier that uses transfer learning (VGG-16) to categoriz
 - Python 3.11, TensorFlow 2.15
 - Flask, Bootstrap 5, Jinja2
 - Git, GitHub, Git LFS
+
+
+
